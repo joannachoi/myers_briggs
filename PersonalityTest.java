@@ -1,15 +1,3 @@
-// Name: Joanna Choi
-// VUnetID: choije
-// Email: joanna.e.choi@vanderbilt.edu
-// Class: CS101, Vanderbilt University
-// Honor statement: I have neither given nor received any unauthorized aid on this assignment.
-// Date: 11/11/14
-
-// Description: This program calculates the Keirsey Temperament Sorter personality test
-//				for people named in a given file. The program determines four independent
-//				dimensions of personality: extrovert versus introvert, sensation versus
-//				intuition, thinking versus feeling, and judging versus perceiving.
-
 import java.io.*;
 import java.util.*;
 
